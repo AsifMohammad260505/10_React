@@ -1,0 +1,16 @@
+props:
+
+-> props stand for properties.
+
+->props are used to send data one components to another
+(usually from parent component to child components)
+
+ex: I am going to pass Argument into the function components.
+
+function F2_The_Movie(props)
+{
+	return(
+		<h1>Hello,{props.name}!</h1>
+	);
+}
+<F2_The_Movie name="Imax"/>

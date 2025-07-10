@@ -1,0 +1,5 @@
+JSX-> extension.
+
+jsx->stands for java script xml.
+->it lets you write html code inside your javascript.
+->Makes it easy to create ui elements directly in your javascript code.
